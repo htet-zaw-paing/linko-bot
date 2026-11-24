@@ -2,11 +2,11 @@
   <img src="logo.png" alt="Linko Logo" width="120">
   <h1>Linko Telegram Bot</h1>
   <p>A high-performance Telegram utility to extract media, clip videos, identify songs, and generate AI transcripts.</p>
-
+  
+  <img src="https://img.shields.io/badge/Python-3.11-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11">
   <a href="https://t.me/Linko4UBot">
     <img src="https://img.shields.io/badge/Open_in_Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Open in Telegram">
   </a>
-  <img src="https://img.shields.io/badge/Python-3.11-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11">
   <img src="https://img.shields.io/badge/Powered_by-MyanCode-000000?style=for-the-badge" alt="Powered by MyanCode">
 </div>
 
