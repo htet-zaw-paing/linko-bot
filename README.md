@@ -143,5 +143,5 @@ Bot မှ ပို့ထားသော သီချင်းဖိုင်�
 ---
 
 <div align="center">
-  Developed and maintained by <a href="https://www.htetzawpaing.site">Htet Zaw Paing</a> • A project by <a href="https://www.myancode.com">MyanCode</a>
+  Developed and maintained by <a href="https://www.htetzawpaing.site">Htet Zaw Paing</a> • A product by <a href="https://www.myancode.com">MyanCode</a>
 </div>
